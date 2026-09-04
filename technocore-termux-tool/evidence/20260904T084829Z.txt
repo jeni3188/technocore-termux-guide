@@ -1,0 +1,36 @@
+Technocore Termux Contribution Evidence
+========================================
+
+Collected (UTC): 2026-09-04T08:48:29Z
+
+[Repository]
+Path: /data/data/com.termux/files/home/flop-testnet/technocore-did-starter
+https://github.com/jeni3188/technocore-termux-guide.git
+
+[Commit]
+2a3c1d2f6a029ecb46237117872cf34981266efd
+Restore README and add Termux tutorial
+jeni3188
+2026-09-04T15:34:46+07:00
+
+[Working tree]
+?? technocore-termux-tool/
+
+[Tutorial]
+62 /data/data/com.termux/files/home/flop-testnet/technocore-did-starter/TERMUX-TUTORIAL.md
+
+[Environment]
+Python 3.12.3
+cryptography 50.0.0
+
+[Technocore DID]
+did:key:z6MkwAwB24eFUMK82FngjSdndwmw6WsTmv4NyovUkn1Zfc5b
+
+[Existing signed contribution]
+Room: technocore
+Sequence: 4164103
+
+[Public contribution]
+https://github.com/jeni3188/technocore-termux-guide
+
+NOTE: This evidence intentionally excludes private keys and passphrases.
